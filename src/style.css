@@ -153,6 +153,11 @@ nav ul li a:hover {
     display: inline-block;
     opacity: .85;
     margin: 1%;
+
+    border-radius: 35px 35px 35px 35px;
+    -moz-border-radius: 35px 35px 35px 35px;
+    -webkit-border-radius: 35px 35px 35px 35px;
+    border: 2px solid black;
 }
 
 .news-row--new:hover{
