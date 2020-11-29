@@ -101,7 +101,7 @@ git pull origin dev
 
 
 ## Autores:
-Gustavo Gómez
-Mariver Milena Garcia Santana
-William Nicolás Buitrago Ballestas
-Harold Isaias Sanchez Cabezas
+-Gustavo Gómez
+-Mariver Milena Garcia Santana
+-William Nicolás Buitrago Ballestas
+-Harold Isaias Sanchez Cabezas
