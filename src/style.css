@@ -214,3 +214,17 @@ nav ul li a:hover {
     text-align:left;
 
 }
+
+/* Estilo título sección noticias */
+.titulo2{
+    color: ghostwhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 200%;
+}
+
+/* Estilo título de cada noticia */
+.titulo3{
+    color: rgb(44, 87, 167);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
